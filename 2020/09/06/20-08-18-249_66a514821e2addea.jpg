@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>Ofertas de empleo  para desarrolladores  - Betabeers</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width">
+	
+				<link rel="canonical" href="https://betabeers.com/post/">
+			
+	<link rel="alternate" type="application/rss+xml" title="Ofertas empleo betabeers" href="https://betabeers.com/post/feed/" />
+
+						<link rel="alternate" hreflang="es" href="https://betabeers.com/post/" />
+		
+					<link rel="alternate" hreflang="en" href="https://betabeers.com/en/post/" />
+		
+				
+	
+
+
+
+<link rel="apple-touch-icon-precomposed" href="https://betabeers.com/img/ios_icon.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://betabeers.com/img/ios_icon@2x.png" />
+
+
+
+	
+  <!-- youtube -->
+  <meta name="google-site-verification" content="ggl4xKpndqsKTfoDqWE6jVaDAv2g_PRj1UIM64fs5Pc" />
+
+  <link rel="shortcut icon" href="https://betabeers.com/static/favicon.ico" />
+
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" href="https://betabeers.com/static/css/all.php?v=19">
+  <link rel="stylesheet" href="https://betabeers.com/static/css/style.css?v=19">
+
+
+
+<!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+mixpanel.init("d0441a363d42c11f37c16d8a8b13e1ec");</script><!-- end Mixpanel -->
+
+
+<script>
+
+	mixpanel.track("post search", {
+    "query": "ZARAGOZA/favicon.ico"
+	});
+</script>
+
+</head>
+<body class="body_bg">
+
+
+
+
+
+
+<div id="head_menu">
+<div class="wrap">
+
+<nav class="animenu">	
+    <input type="checkbox" id="button">
+    <label for="button" onclick>Betabeers</label>
+	<ul>
+			<li>
+				<a href="https://betabeers.com/">ßetabeers</a>
+			</li>
+
+			<li>
+				<a href="https://betabeers.com/post/"  class="sel">Empleo</a>
+							</li>
+	
+			<li>
+				<a href="https://betabeers.com/event/" >Agenda</a>
+			</li>
+
+			<li>
+				<a href="https://betabeers.com/community/" >Comunidades</a>
+			</li>
+			<li>
+				<a href="https://betabeers.com/course/" >Cursos</a>
+			</li>
+			<li>
+				<a href="https://betabeers.com/content/" >Charlas</a>
+			</li>			
+			<li>
+				<a href="https://betabeers.com/forum/" >Foro</a>
+			</li>
+				
+			<li>
+				<a href="https://betabeers.com/info/where/" >Sedes</a>
+			</li>
+
+		<li class="floatR">
+		
+						
+			<a href="https://betabeers.com/user/login/">Iniciar sesión</a>
+			
+			
+		</li>
+		
+
+		<li class="floatR">
+			<a href="#"><img src="https://betabeers2.s3.amazonaws.com/img/flags/73.png" align="absmiddle" width="16" height="16"> Language</a>
+			<ul>
+				<a href="https://betabeers.com/en/"><img src="https://betabeers2.s3.amazonaws.com/img/flags/180.png" align="absmiddle" width="16" height="16"> English</a>
+				<a href="https://betabeers.com/"><img src="https://betabeers2.s3.amazonaws.com/img/flags/73.png" align="absmiddle" width="16" height="16"> Español</a>
+			</ul>
+		</li>
+		
+
+
+		
+	</ul>
+</nav>
+
+</div>
+
+
+</div>
+
+
+
+
+
+<div class="wrap" id="content">
+
+
+
+<div class="row">
+	<div class="col-md-12">
+		<h1 style="margin-top:0">Ofertas de empleo  para desarrolladores </h1>
+	</div>
+</div>
+
+<div class="row">
+
+
+<div class="col-md-2 aside-left">
+
+			<a href="https://betabeers.com/post/info/" class="btn-lg btn btn-block btn-warning">Publicar oferta</a>
+	
+  <h3>Filtrado</h3>
+	<form id="form_search" class="form-inline" role="form">
+    <div class="input-group">
+      <input class="form-control ui-autocomplete-input" name="s" placeholder="" autocomplete="off" value="ZARAGOZA/favicon.ico" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+      <span class="input-group-btn">
+        <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search" aria-hidden="true"></span><span class="hidden">Buscar</span></button>
+      </span>
+    </div>
+  </form>
+
+	      <div class="btn-group btn-block">
+        <button type="button" class="btn btn-default btn-block dropdown-toggle" data-toggle="dropdown">
+          Filtro por País <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu btn-block" role="menu">
+                  <li><a href="?&s=ZARAGOZA/favicon.ico" class="sel"><span class="badge pull-right"></span>Todos</a></li>
+                  <li><a href="?country_id=73&s=ZARAGOZA/favicon.ico" ><span class="badge pull-right">9</span>España</a></li>
+                </ul>
+      </div>
+    
+    
+
+	<ul class="list-group btn-block hidden-xs">
+					<li class="list-group-item">
+				<a class="btn-block" href="?type=0&s=ZARAGOZA/favicon.ico"><span class="pull-right glyphicon glyphicon-ok"></span>Todos</a>
+			</li>
+					<li class="list-group-item">
+				<a class="btn-block" href="?type=1&s=ZARAGOZA/favicon.ico">Full time</a>
+			</li>
+					<li class="list-group-item">
+				<a class="btn-block" href="?type=2&s=ZARAGOZA/favicon.ico">Freelance</a>
+			</li>
+					<li class="list-group-item">
+				<a class="btn-block" href="?type=3&s=ZARAGOZA/favicon.ico">Practicas</a>
+			</li>
+					<li class="list-group-item">
+				<a class="btn-block" href="?type=4&s=ZARAGOZA/favicon.ico">Socio</a>
+			</li>
+			</ul>
+	<ul class="list-group btn-block hidden-xs">
+					<li class="list-group-item">
+				<a class="btn-block" href="?category_id=0&s=ZARAGOZA/favicon.ico"><span class="pull-right glyphicon glyphicon-ok"></span>Todos</a>
+			</li>
+					<li class="list-group-item">
+				<a class="btn-block" href="?category_id=1&s=ZARAGOZA/favicon.ico">Frontend</a>
+			</li>
+					<li class="list-group-item">
+				<a class="btn-block" href="?category_id=2&s=ZARAGOZA/favicon.ico">Backend</a>
+			</li>
+					<li class="list-group-item">
+				<a class="btn-block" href="?category_id=3&s=ZARAGOZA/favicon.ico">Apps</a>
+			</li>
+					<li class="list-group-item">
+				<a class="btn-block" href="?category_id=4&s=ZARAGOZA/favicon.ico">Sysadmin</a>
+			</li>
+					<li class="list-group-item">
+				<a class="btn-block" href="?category_id=5&s=ZARAGOZA/favicon.ico">Maquetador</a>
+			</li>
+					<li class="list-group-item">
+				<a class="btn-block" href="?category_id=7&s=ZARAGOZA/favicon.ico">QA</a>
+			</li>
+					<li class="list-group-item">
+				<a class="btn-block" href="?category_id=8&s=ZARAGOZA/favicon.ico">Marketing</a>
+			</li>
+					<li class="list-group-item">
+				<a class="btn-block" href="?category_id=6&s=ZARAGOZA/favicon.ico">Otros</a>
+			</li>
+			</ul>
+
+
+	<div class="visible-xs">
+	<div class="btn-group btn-block">
+	  <button type="button" class="btn btn-default btn-block dropdown-toggle" data-toggle="dropdown">
+	    Filtrar <span class="caret"></span>
+	  </button>
+	  <ul class="dropdown-menu btn-block" role="menu">
+					<li>
+				<a class="btn-block" href="?type=0&s=ZARAGOZA/favicon.ico"><span class="pull-right glyphicon glyphicon-ok"></span>Todos</a>
+			</li>
+					<li>
+				<a class="btn-block" href="?type=1&s=ZARAGOZA/favicon.ico">Full time</a>
+			</li>
+					<li>
+				<a class="btn-block" href="?type=2&s=ZARAGOZA/favicon.ico">Freelance</a>
+			</li>
+					<li>
+				<a class="btn-block" href="?type=3&s=ZARAGOZA/favicon.ico">Practicas</a>
+			</li>
+					<li>
+				<a class="btn-block" href="?type=4&s=ZARAGOZA/favicon.ico">Socio</a>
+			</li>
+				<li role="presentation" class="divider"></li>
+					<li>
+				<a class="btn-block" href="?category_id=0&s=ZARAGOZA/favicon.ico"><span class="pull-right glyphicon glyphicon-ok"></span>Todos</a>
+			</li>
+					<li>
+				<a class="btn-block" href="?category_id=1&s=ZARAGOZA/favicon.ico">Frontend</a>
+			</li>
+					<li>
+				<a class="btn-block" href="?category_id=2&s=ZARAGOZA/favicon.ico">Backend</a>
+			</li>
+					<li>
+				<a class="btn-block" href="?category_id=3&s=ZARAGOZA/favicon.ico">Apps</a>
+			</li>
+					<li>
+				<a class="btn-block" href="?category_id=4&s=ZARAGOZA/favicon.ico">Sysadmin</a>
+			</li>
+					<li>
+				<a class="btn-block" href="?category_id=5&s=ZARAGOZA/favicon.ico">Maquetador</a>
+			</li>
+					<li>
+				<a class="btn-block" href="?category_id=7&s=ZARAGOZA/favicon.ico">QA</a>
+			</li>
+					<li>
+				<a class="btn-block" href="?category_id=8&s=ZARAGOZA/favicon.ico">Marketing</a>
+			</li>
+					<li>
+				<a class="btn-block" href="?category_id=6&s=ZARAGOZA/favicon.ico">Otros</a>
+			</li>
+			  </ul>
+	</div>
+	</div>
+
+
+	<div class="hidden-xs">
+		<ul class="list-group" style="margin-bottom:0">
+							<li class="list-group-item">
+					<a class="btn-block" href="?tag_id=9">PHP</a>
+				</li>
+							<li class="list-group-item">
+					<a class="btn-block" href="?tag_id=76">Java</a>
+				</li>
+							<li class="list-group-item">
+					<a class="btn-block" href="?tag_id=18">Javascript</a>
+				</li>
+							<li class="list-group-item">
+					<a class="btn-block" href="?tag_id=33">Ruby on Rails</a>
+				</li>
+							<li class="list-group-item">
+					<a class="btn-block" href="?tag_id=78">Android</a>
+				</li>
+							<li class="list-group-item">
+					<a class="btn-block" href="?tag_id=37">iOS</a>
+				</li>
+					</ul>
+	</div>
+
+	<div class="visible-xs">
+		<div class="btn-group btn-block">
+		  <button type="button" class="btn btn-default btn-block dropdown-toggle" data-toggle="dropdown">
+		    Tags <span class="caret"></span>
+		  </button>
+		  <ul class="dropdown-menu btn-block" role="menu">
+							<li><a href="?tag_id=9">PHP</a></li>
+							<li><a href="?tag_id=76">Java</a></li>
+							<li><a href="?tag_id=18">Javascript</a></li>
+							<li><a href="?tag_id=33">Ruby on Rails</a></li>
+							<li><a href="?tag_id=78">Android</a></li>
+							<li><a href="?tag_id=37">iOS</a></li>
+					  </ul>
+		</div>
+	</div>
+	<br>
+
+
+	<h3>Suscribirse</h3>
+
+	<div class="btn-group btn-block">
+	  <button type="button" class="btn btn-default btn-block dropdown-toggle" data-toggle="dropdown">
+	    Suscribirse <span class="caret"></span>
+	  </button>
+	  <ul class="dropdown-menu btn-block" role="menu">
+			<li><a href="https://twitter.com/betabeersempleo" target="_blank">Twitter</a></li>
+			<li><a href="https://betabeers.com/post/feed/" target="_blank">RSS</a></li>
+			<li><a href="http://feedly.com/#subscription/feed/https://betabeers.com/post/feed/" target="_blank">Feedly</a></li>
+			<li><a href="https://ifttt.com/recipes/133853" target="_blank">Email</a></li>
+		</ul>
+
+	</div>
+
+	<div class="btn-group btn-block">
+	<ul class="list-group">
+		<li class="list-group-item"><a href="https://itunes.apple.com/es/app/betabeers/id721318004?mt=8" target="_blank">iPhone</a></li>
+		<li class="list-group-item"><a href="https://play.google.com/store/apps/details?id=com.miquelcamps.betabeers" target="_blank">Android</a></li>
+		<li class="list-group-item"><a href="http://www.windowsphone.com/es-es/store/app/betajobs/4a4ac493-1bef-4818-94bd-996d9c804095" target="_blank">Windows Phone</a></li>
+	  </ul>
+	</div>
+
+
+</div>
+<div class="col-md-7">
+
+
+
+
+<!-- START BREADCRUMB -->
+
+
+
+
+<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" style="display:none">
+	<a href="https://betabeers.com/post/" itemprop="url"><span itemprop="title">Empleo</span></a>
+
+
+</div>
+
+
+
+<!-- END BREADCRUMB -->
+  <div class="alert alert-warning" role="alert">No se encuentran resultados</div>
+</div>
+
+
+<aside class="col-md-3" id="sidebar2">
+<div class="aside_banners">
+    </div>
+	<div class="aside aside_popular">
+		<h3>Empresas</h3>
+		<div id="companies"><img src="https://betabeers2.s3.amazonaws.com/img/loading.gif"></div>
+	</div>
+</aside>
+
+</div>
+
+
+
+
+
+
+</div>
+
+<div class='clear'></div>
+
+<div id="catapult-cookie-bar" style="display:none">Este sitio necesita cookies para que funcione correctamente<button id="catapultCookie">Aceptar Cookies</button><a href="https://betabeers.com/info/cookies_policy/">Política de cookies</a></div>
+
+
+
+<div class="footer">
+  <div class="wrap">
+    <div class="row">
+      <div class="col-md-2">
+        <h3>Betabeers</h3>
+        <ul>
+          <li><a href="https://betabeers.com/info/">Conócenos</a></li>
+          <li><a href="https://betabeers.com/info/where/">Sedes</a></li>
+	  <li><a href="https://betabeers.com/info/code_of_conduct/">Código de conducta</a></li>
+          <li><a href="https://betabeers.com/blog/">Blog</a></li>
+        </ul>
+      </div>
+      <div class="col-md-2">
+        <h3>Participa</h3>
+        <ul>
+          <li><a href="https://betabeers.com/info/organize/">Organizar evento</a></li>
+          <li><a href="https://betabeers.com/info/join/">Presentar startup</a></li>
+        </ul>
+      </div>
+      <div class="col-md-2">
+        <h3>Empresas</h3>
+        <ul>
+          <li><a href="https://betabeers.com/post/info/">¿Buscas programadores?</a</li>
+          <li><a href="https://betabeers.freshdesk.com/support/solutions/folders/1000073243" target="_blank">Soporte</a></li>
+          <li><a href="https://betabeers.com/info/sponsor/">Patrocinar</a></li>
+        </ul>
+      </div>
+      <div class="col-md-2">
+        <h3>Contacto</h3>
+        <ul>
+          <li><a href="https://betabeers.com/info/contact/">Contactar</a></li>
+          <li><a href="https://betabeers.com/blog/prensa-menciones-80/">Prensa</a></li>
+          <li class="icon"><a href="https://twitter.com/betabeers"><span class="fa fa-twitter-square fa-2x"></span></a></li>
+          <li class="icon"><a href="https://www.facebook.com/betabeers/"><span class="fa fa-facebook-square fa-2x"></span></a></li>
+          <li class="icon"><a href="https://www.youtube.com/user/betabeers"><span class="fa fa-youtube-square fa-2x"></span></a></li>
+          <li class="icon"><a href="https://www.linkedin.com/company/betabeers"><span class="fa fa-linkedin-square fa-2x"></span></a></li>
+         </ul>
+      </div>
+      <div class="col-md-2">
+      </div>
+    </div>
+    <span style="color:#666">&copy; 2010 - 2020 betabeers. Todos los derechos reservados</span>
+  </div>
+</div>
+
+<script>
+var TXT_SHARING = 'Compartir';
+</script>
+
+
+<script src="https://betabeers.com/static/js/all.php?v=14" type="text/javascript"></script>
+<script src="https://betabeers2.s3.amazonaws.com/js/jquery.cookie/jquery.cookie.js" type="text/javascript"></script>
+
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/base/jquery-ui.css" type="text/css" media="all" />
+<link rel="stylesheet" href="https://betabeers2.s3.amazonaws.com/js/jqueryui/ui.theme.css" type="text/css" media="all" />
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
+
+<script>
+var BASE_URL = 'https://betabeers.com/';
+var BASE_LANG_URL = 'https://betabeers.com/';
+var STATIC_URL = 'https://betabeers2.s3.amazonaws.com/';
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-36611201-1', 'auto');
+  ga('send', 'pageview');
+  
+  setTimeout('ga(\'send\', \'event\', \'NoBounce\', \'Over 20 seconds\')',20000);
+
+</script>
+<script>
+
+
+$().ready(function(){
+
+if( $.cookie('CookiePolicy') == undefined ){
+  $('#catapult-cookie-bar').show();
+  //window['ga-disable-UA-36611201-1'] = true;
+}else{
+  //window['ga-disable-UA-36611201-1'] = false;
+}
+//window['ga-disable-UA-36611201-1'] = false;
+
+//  var _gaq = _gaq || [];
+//  _gaq.push(['_setAccount', 'UA-36611201-1']);
+//  _gaq.push(['_setDomainName', 'betabeers.com']);
+//  _gaq.push(['_trackPageview']);
+
+
+if( $('#related').size() ){ //existe?
+
+	$.get(BASE_LANG_URL + "user/sidebar/?id=" + OBJ_ID + '&type=' + OBJ_TYPE, function(html) {
+		$('#related').html(html);
+	});
+
+	if( !is_mobile() ){
+
+		var sidebar_left = $('#related').position().left;
+
+		window.addEventListener('scroll', function(){
+			if( document.body.scrollTop > 50 ){
+				$('#sharebar').fadeIn('slow');
+			}else if( document.body.scrollTop == 0 ){
+				$('#sharebar').fadeOut('fast');
+			}
+
+			var is_end_page = (( document.documentElement.clientHeight + $(document).scrollTop() ) + 340) >= document.body.offsetHeight;
+			if( is_end_page ){
+
+				if( $('#related').css('position') != 'fixed' ){
+					setTimeout(function(){
+						$('#related').hide().css('left', '70%' ).css('position','fixed').css('top','60px').fadeIn('slow'); //css('bottom','20px')
+					}, 100);
+				}
+
+			}else{
+				$('#related').css('right', 'auto' ).css('position','inherit').css('bottom','auto');
+			}
+
+		}, false);
+
+	}
+}
+
+
+
+
+
+	$('#lista:first').prepend('<li class="featured"><a href="https://betabeers.com/post/">Ver todas las ofertas</a></li>');
+
+
+$('#catapultCookie').click(function(){
+	$('#catapult-cookie-bar').hide();
+	$.cookie('CookiePolicy', '1', { expires: 365, path: '/' });
+
+
+	//window['ga-disable-UA-36611201-1'] = false;
+    //_gaq.push(['_trackPageview']);
+});
+
+    //$('input[type="submit"]').click(function() {
+    //	$(this).css('background',"#749A02 url('http://betabeers.com/img/loading2.gif?v=2') no-repeat center center").val('                              ');
+    //});
+
+});
+
+$().ready(function(){
+	autoGeo('#geo');
+
+
+	$.getJSON(BASE_LANG_URL + "api/companies/", function( items ) {
+
+		if( items ){
+			var html = '';
+			for(i=0; i<items.length; i++){
+				html += '<a href="'+items[i].url+'">'+items[i].name+'</a><br>'+items[i].location+'<br><br>';
+			}
+
+			$('#companies').html(html);
+		}
+	});
+
+
+});
+
+</script>
+
+<!-- UserVoice JavaScript SDK (only needed once on a page)
+<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/sdZ7eSJmT7fntMaRzv59JA.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>
+<script>
+UserVoice = window.UserVoice || [];
+UserVoice.push(['showTab', 'classic_widget', {
+  mode: 'feedback',
+  primary_color: '#cc6d00',
+  link_color: '#007dbf',
+  forum_id: 34796,
+  tab_label: 'Sugerencias',
+  tab_color: '#cc6d00',
+  tab_position: 'bottom-right',
+  tab_inverted: false
+}]);
+</script>
+-->
+
+</body>
+</html>
